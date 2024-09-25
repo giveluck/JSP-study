@@ -1,6 +1,6 @@
+<%@page import="com.ssamz.biz.board.BoardVO"%>
 <%@ page import="java.util.List" %>
 <%@ page import="com.ssamz.biz.board.BoardDAO" %>
-<%@ page import="com.ssamz.biz.board.BoardVO" %>
 
 <%@ page contentType="text/html; charset=UTF-8" %>
 
